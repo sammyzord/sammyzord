@@ -1,7 +1,5 @@
 ## Hello everyone 👋
 
-</br>
-
 # My name is Samuel
 
 I am a Software Engineering student at the University of Brasilia (UnB). I like solving problems and learning new skills.
