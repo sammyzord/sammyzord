@@ -11,13 +11,21 @@ I am a Software Engineering student at the University of Brasilia (UnB). I like 
 
 </br>
 
-### Frontend Technologies 🖥️
+### Frontend 🖥️
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind)](https://samuca.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind)](https://sammyzord.dev)
 
-### Backend Technologies 💽
+### Backend 💽
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,php,postgres,mongo,docker)](https://samuca.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,laravel)](https://sammyzord.dev)
+
+### Databases 💾
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://sammyzord.dev)
+
+### DevOps 🔧
+
+[![My Skills](https://skillicons.dev/icons?i=bash,docker)](https://sammyzord.dev)
 
 </br>
 
