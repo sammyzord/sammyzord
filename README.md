@@ -9,7 +9,7 @@ I am a Software Engineering student at the University of Brasilia (UnB). I like 
 - I'm interested in DevOps
 - I ❤️ FOSS
 
-</br>
+<br>
 
 ### Frontend 🖥️
 
@@ -27,7 +27,7 @@ I am a Software Engineering student at the University of Brasilia (UnB). I like 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,docker)](https://sammyzord.dev)
 
-</br>
+<br>
 
 ### Follow me on
 
