@@ -11,24 +11,40 @@ I am a Software Engineering student at the University of Brasilia (UnB). I like 
 
 <br>
 
+### Languages 📓
+
+[![JS](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 ### Frontend 🖥️
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind)](https://sammyzord.dev)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 ### Backend 💽
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,laravel)](https://sammyzord.dev)
+[![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Deno](https://skillicons.dev/icons?i=deno)](https://deno.land/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 
 ### Databases 💾
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongo)](https://sammyzord.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+[![MongoDB](https://skillicons.dev/icons?i=mongo)](https://www.mongodb.com/)
 
 ### DevOps 🔧
 
-[![My Skills](https://skillicons.dev/icons?i=bash,docker)](https://sammyzord.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 <br>
 
 ### Follow me on
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borges-sb/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sammyzord/)
