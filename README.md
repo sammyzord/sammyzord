@@ -2,7 +2,7 @@
 
 # My name is Samuel
 
-I am a Software Engineering student at the University of Brasilia (UnB). I like solving problems and learning new skills.
+As a recent graduate of the University of Brasília (UnB) with a Bachelor's degree in Software Engineering, I am eager and excited to embark on new and challenging opportunities. I like solving problems and learning new skills.
 
 - I like building useful things
 - I'm fascinated by UI/UX
@@ -17,6 +17,7 @@ I am a Software Engineering student at the University of Brasilia (UnB). I like 
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+
 ### Frontend 🖥️
 
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
@@ -41,7 +42,9 @@ I am a Software Engineering student at the University of Brasilia (UnB). I like 
 ### DevOps 🔧
 
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 <br>
 
