@@ -7,6 +7,7 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 - I like building useful things
 - I'm fascinated by UI/UX
 - I'm interested in DevOps
+- I'm curious about AI/ML
 - I ❤️ FOSS
 
 <br>
