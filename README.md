@@ -33,6 +33,8 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+
 
 ### Databases 💾
 
@@ -52,3 +54,5 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 ### Follow me on
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sammyzord/)
+
+<!-- [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyzord&show_icons=true&theme=slateorange)](https://github.com/sammyzord) -->
