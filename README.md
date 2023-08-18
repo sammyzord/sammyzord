@@ -1,6 +1,4 @@
-## Hello everyone 👋
-
-# My name is Samuel
+![Hi! I'm Samuel Borges](./profile_header.gif)
 
 As a recent graduate of the University of Brasília (UnB) with a Bachelor's degree in Software Engineering, I am eager and excited to embark on new and challenging opportunities. I like solving problems and learning new skills.
 
@@ -25,6 +23,7 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
 
 ### Backend 💽
 
@@ -34,7 +33,6 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
-
 
 ### Databases 💾
 
@@ -55,4 +53,13 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sammyzord/)
 
-<!-- [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyzord&show_icons=true&theme=slateorange)](https://github.com/sammyzord) -->
+<br>
+<br>
+
+
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyzord&show_icons=true&bg_color=111827&text_color=fde047&title_color=fde047&icon_color=fde047&border_color=fde047)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=sammyzord&layout=compact&n&langs_count=8&bg_color=111827&text_color=fde047&title_color=fde047&icon_color=fde047&border_color=fde047)
+
+
+
