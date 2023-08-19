@@ -47,7 +47,6 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 <br>
-<br>
 
 ### GitHub Analytics 📊
 <br>
