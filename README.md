@@ -8,7 +8,6 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 - I'm curious about AI/ML
 - I ❤️ FOSS
 
-<br>
 
 ### Languages 📓
 
@@ -48,18 +47,22 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
 
 <br>
-
-### Follow me on
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sammyzord/)
-
-<br>
 <br>
 
-
+### GitHub Analytics 📊
+<br>
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyzord&show_icons=true&bg_color=111827&text_color=fde047&title_color=fde047&icon_color=fde047&border_color=fde047)
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=sammyzord&layout=compact&n&langs_count=8&bg_color=111827&text_color=fde047&title_color=fde047&icon_color=fde047&border_color=fde047)
+<br>
+<br>
+### Follow me on 👍
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sammyzord/)
+
+
+
+
 
 
 
