@@ -8,7 +8,7 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 - I'm curious about AI/ML
 - I ❤️ FOSS
 
-### Languages 📓
+### Languages 🌐
 
 [![JS](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
