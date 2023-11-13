@@ -43,7 +43,7 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 
 ### GitHub Analytics 📊
 
