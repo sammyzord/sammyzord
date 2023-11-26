@@ -1,7 +1,8 @@
 ![Hi! I'm Samuel Borges](./profile_header.gif)
 
-As a recent graduate of the University of Brasília (UnB) with a Bachelor's degree in Software Engineering, I am eager and excited to embark on new and challenging opportunities. I like solving problems and learning new skills.
+I'm a results-driven Software Engineer with a bachelor's deree degree from the University of Brasilia (UnB) and over 5 years of professional experience. Passionate about solving complex problems and dedicated to continuous learning, I thrive in dynamic environments. Let's create innovative solutions together!
 
+#### About me:
 - I like building useful things
 - I'm fascinated by UI/UX
 - I'm interested in DevOps
@@ -44,6 +45,14 @@ As a recent graduate of the University of Brasília (UnB) with a Bachelor's degr
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+<a href="https://terraform.io">
+    <img 
+        style="background-color:#232937;padding:4px;border-radius:12px" 
+        height="40"
+        width="40"
+        src="https://cdn.simpleicons.org/terraform">
+    </img>
+</a>
 
 ### GitHub Analytics 📊
 
