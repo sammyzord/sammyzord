@@ -45,14 +45,13 @@ I'm a results-driven Software Engineer with a bachelor's deree degree from the U
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
-<!-- <a href="https://terraform.io">
+<a href="https://terraform.io">
     <img 
-        style="background-color:#232937;padding:4px;border-radius:12px" 
-        height="40"
-        width="40"
-        src="https://cdn.simpleicons.org/terraform">
+        height="48"
+        width="48"
+        src="skill_icons/Terraform-Dark.svg">
     </img>
-</a> -->
+</a>
 
 ### GitHub Analytics 📊
 
