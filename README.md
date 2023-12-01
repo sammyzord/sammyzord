@@ -1,8 +1,12 @@
 ![Hi! I'm Samuel Borges](./profile_header.gif)
 
-I'm a results-driven Software Engineer with a bachelor's deree degree from the University of Brasilia (UnB) and over 5 years of professional experience. Passionate about solving complex problems and dedicated to continuous learning, I thrive in dynamic environments. Let's create innovative solutions together!
+I'm a results-driven Software Engineer with a bachelor's deree degree from the
+University of Brasilia (UnB) and over 5 years of professional experience.
+Passionate about solving complex problems and dedicated to continuous learning,
+I thrive in dynamic environments. Let's create innovative solutions together!
 
 #### About me:
+
 - I like building useful things
 - I'm fascinated by UI/UX
 - I'm interested in DevOps
@@ -15,6 +19,7 @@ I'm a results-driven Software Engineer with a bachelor's deree degree from the U
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![go](https://skillicons.dev/icons?i=go)](https://go.dev/)
 
 ### Frontend 🖥️
 
@@ -46,11 +51,11 @@ I'm a results-driven Software Engineer with a bachelor's deree degree from the U
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 <a href="https://terraform.io">
-    <img 
+<img 
         height="48"
         width="48"
         src="skill_icons/Terraform-Dark.svg">
-    </img>
+</img>
 </a>
 
 ### GitHub Analytics 📊
