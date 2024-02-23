@@ -50,13 +50,14 @@ I thrive in dynamic environments. Let's create innovative solutions together!
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
-<a href="https://terraform.io">
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://terraform.io)
+<!-- <a href="https://terraform.io">
 <img 
         height="48"
         width="48"
         src="skill_icons/Terraform-Dark.svg">
 </img>
-</a>
+</a> -->
 
 ### GitHub Analytics 📊
 
