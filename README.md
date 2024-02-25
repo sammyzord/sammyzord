@@ -1,9 +1,6 @@
 ![Hi! I'm Samuel Borges](./profile_header.gif)
 
-I'm a results-driven Software Engineer with a bachelor's deree degree from the
-University of Brasilia (UnB) and over 5 years of professional experience.
-Passionate about solving complex problems and dedicated to continuous learning,
-I thrive in dynamic environments. Let's create innovative solutions together!
+I'm a Software Engineer with 5 years of Fullstack experience. I mainly have expertise in JS/TS and Python, but I also like Go and have written some personal projects in it. I have graduated with a Bachelor of Science in Software Engineering from the University of Brasília (UnB). Also, I am a easy person to get along with 😅.
 
 #### About me:
 
@@ -19,7 +16,7 @@ I thrive in dynamic environments. Let's create innovative solutions together!
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![go](https://skillicons.dev/icons?i=go)](https://go.dev/)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
 
 ### Frontend 🖥️
 
